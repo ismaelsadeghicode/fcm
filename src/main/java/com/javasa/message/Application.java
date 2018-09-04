@@ -1,4 +1,4 @@
-package com.javasa;
+package com.javasa.message;
 
 /**
  *
